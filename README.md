@@ -10,6 +10,19 @@ The client provided KPMG with 3 datasets in the past 3 months :
 ### Tasks
 **Task 1**: Review the data quality to ensure that it is ready for our analysis in phase two. Draft an email to the client identifying the data quality issues and strategies to mitigate these issues.
 
-**Task 2**: Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have a prior transaction history with the organization. The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analyzed, the data would reveal useful customer insights that could help optimize resource allocation for targeted marketing. Hence, improve performance by focusing on high-value customers. We need to start with a PowerPoint presentation that outlines the approach which we will be taking. The client has agreed on a 3 week scope with the following 3 phases as follows - Data Exploration; Model Development and Interpretation.
+**Task 2**: Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have a prior transaction history with the organization. The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analyzed, the data would reveal useful customer insights that could help optimize resource allocation for targeted marketing. Hence, improve performance by focusing on high-value customers. We need to start with a PowerPoint presentation that outlines the approach which we will be taking. The client has agreed on a 3-week scope with the following 3 phases as follows - Data Exploration; Model Development and Interpretation.
 
 **Task 3**: Please develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard.
+
+## Data Insights & Presentation - Tableau Dashboard ##
+
+![Dashboard 1](https://github.com/bhumikahy/KPMG-Data-Analytics-Virtual-Internship/assets/105439269/964fb622-70c5-44dd-9bfc-bd3dbae203bd)
+
+
+![Dashboard 2](https://github.com/bhumikahy/KPMG-Data-Analytics-Virtual-Internship/assets/105439269/09e8af61-0156-4108-882b-a0a544f4aa77)
+
+
+![Dashboard 3](https://github.com/bhumikahy/KPMG-Data-Analytics-Virtual-Internship/assets/105439269/f9a3938f-c08d-4eaf-8227-dcfe19beef36)
+
+
+
